@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**MariaGeorgina/MariaGeorgina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```js
+import FullStackDeveloper from 'MariaGeorgina';
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Bio extends FullStackDeveloper {
+  name     = 'Maria Georgina Baldassin';
+  title    = 'Full Stack Developer';
+  location = 'Córdoba, AR';
+}
+
+class Skills extends FullStackDeveloper {
+  code  = ['JavaScript', 'HTML', 'CSS'];
+  databases  = ['MySQL', 'PostgreSQL'];
+  frameworks = ['React', 'React Native', 'Redux', 'NodeJs', 'Express'];
+}
+```
+
+📫 How to reach me: 
+[LinkedIn](https://www.linkedin.com/in/maria-georgina-baldassin/)
+
+
